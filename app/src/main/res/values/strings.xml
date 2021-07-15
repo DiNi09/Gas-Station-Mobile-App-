@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="google_map_key">AIzaSyB_qsP8AOP_P0MdIPz-48TDaJYjTP3vbjo</string>
+    <string name="find">Find</string>
+</resources>
